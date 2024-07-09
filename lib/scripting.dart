@@ -2,7 +2,7 @@
 
 library;
 
-import 'dart:js_util';
+import 'dart:js_interop';
 import 'extension_types.dart';
 import 'src/internal_helpers.dart';
 import 'src/js/scripting.dart' as $js;

@@ -2,7 +2,7 @@
 
 library;
 
-import 'dart:js_util';
+import 'dart:js_interop';
 import 'src/internal_helpers.dart';
 import 'src/js/system_display.dart' as $js;
 import 'system.dart';

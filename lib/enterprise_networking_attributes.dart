@@ -2,7 +2,7 @@
 
 library;
 
-import 'dart:js_util';
+import 'dart:js_interop';
 import 'enterprise.dart';
 import 'src/internal_helpers.dart';
 import 'src/js/enterprise_networking_attributes.dart' as $js;

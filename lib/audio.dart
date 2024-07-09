@@ -2,7 +2,6 @@
 
 library;
 
-import 'dart:js_util';
 import 'src/internal_helpers.dart';
 import 'src/js/audio.dart' as $js;
 

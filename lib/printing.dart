@@ -2,7 +2,7 @@
 
 library;
 
-import 'dart:js_util';
+import 'dart:js_interop';
 import 'printer_provider.dart';
 import 'src/internal_helpers.dart';
 import 'src/js/printing.dart' as $js;

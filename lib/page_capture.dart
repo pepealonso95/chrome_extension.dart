@@ -2,7 +2,7 @@
 
 library;
 
-import 'dart:js_util';
+import 'dart:js_interop';
 import 'dart:typed_data';
 import 'src/internal_helpers.dart';
 import 'src/js/page_capture.dart' as $js;

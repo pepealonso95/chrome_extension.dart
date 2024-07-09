@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:js_interop';
-import 'dart:js_util';
+import 'dart:js_interop';
 import '../runtime.dart';
 import 'js/events.dart' as js;
 

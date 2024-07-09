@@ -2,7 +2,7 @@
 
 library;
 
-import 'dart:js_util';
+import 'dart:js_interop';
 import 'src/internal_helpers.dart';
 import 'src/js/web_authentication_proxy.dart' as $js;
 
